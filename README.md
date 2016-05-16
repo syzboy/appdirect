@@ -4,7 +4,7 @@ Prerequisites to build and run this project: gradle & java8
 
 There are 2 ways to run this project
 
-1. "gradle build" to build a jar from the source code. Then run "java -jar /build/lib/appdirect-<version>.jar" 
+1. "gradle build" to build a jar from the source code. Then run "java -jar build/libs/appdirect-1.0.jar" 
 
 2. "gradle bootRun"
 
